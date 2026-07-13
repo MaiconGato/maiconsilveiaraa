@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="ChatGPT Image 12 de jul  de 2026, 20_57_08" src="https://github.com/user-attachments/assets/8a752f68-62dc-48b7-8d60-45f442ea7a9e" />
 <h1 align="center">Olá! Eu sou o Maicon Silveira 👋</h1>
 
 <p align="center">
