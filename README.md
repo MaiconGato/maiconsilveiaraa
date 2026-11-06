@@ -47,7 +47,7 @@ O objetivo do sistema é realizar a intermediação entre empresas que realizam 
 - Organização do projeto
 
 🔗 Repositório:
-https://github.com/maiconsilveiaraa/LogElec
+https://github.com/MaiconGato/LogElec
 
 ---
 
@@ -69,7 +69,7 @@ Atualmente estou aprofundando meus estudos em:
 https://linkedin.com/in/maiconsilveiaraa
 
 📧 E-mail:
-seuemail@email.com
+maiconsilveira2017@gmail.com
 
 🐙 GitHub:
-https://github.com/maiconsilveiaraa
+https://github.com/MaiconGato
